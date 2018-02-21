@@ -14,6 +14,7 @@ namespace GitDemo
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
+            //teste
         }
 
         public IConfiguration Configuration { get; }
